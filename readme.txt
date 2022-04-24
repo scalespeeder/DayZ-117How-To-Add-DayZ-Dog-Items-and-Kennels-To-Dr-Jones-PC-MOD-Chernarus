@@ -31,9 +31,9 @@ ADD THESE TO TraderConfig.txt BELOW THE LAST ENTRY IN <Category> Hardware Suppli
 
 <Category> Pet Supplies
 		dog_shed_small_kit,		*,		20,		-1
-		dog_shed_wooden_kit		*,		50,		-1
+		dog_shed_wooden_kit,		*,		50,		-1
 		dog_shed_big_kit,		*,		100,	-1
-		dog_bowl,				*,		10,		-1
+		dog_bowl,			*,		10,		-1
 		dog_bone_toy,			*,		10,		-1
 		
 save (and upload if necessary) to trader config folder on your server (inside the server profile / config / settings folder)
